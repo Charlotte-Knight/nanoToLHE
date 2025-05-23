@@ -1,0 +1,4 @@
+pylhe_env/
+*.lhe
+*.lhe.gz
+*.root
